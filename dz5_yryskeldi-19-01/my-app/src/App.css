@@ -1,0 +1,19 @@
+.wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 500px;
+  background-color: gold;
+}
+.green{
+  width: 100px;
+  height: 100px;
+  background-color: green
+}
+.blue{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  margin-right: 10px;
+}
